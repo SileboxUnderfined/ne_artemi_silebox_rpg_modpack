@@ -1,0 +1,25 @@
+{
+  "playerConfigs": {
+    "74a8ea2e-4da8-4286-9cb0-2073014b2831": {
+      "helmetTransparency": 0.65,
+      "chestTransparency": 0.4,
+      "legsTransparency": 0.4,
+      "bootsTransparency": 1.0,
+      "playerId": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "playerName": "flowstatemc",
+      "enableCombatDetection": true
+    }
+  },
+  "playerNameConfigs": {
+    "flowstatemc": {
+      "helmetTransparency": 0.65,
+      "chestTransparency": 0.4,
+      "legsTransparency": 0.4,
+      "bootsTransparency": 1.0,
+      "playerId": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "playerName": "flowstatemc",
+      "enableCombatDetection": true
+    }
+  },
+  "enableCombatDetection": true
+}

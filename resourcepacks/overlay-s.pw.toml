@@ -1,0 +1,13 @@
+name = "Overlay’s"
+filename = "Overlay’s§7.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c480aedcf20a18b2ccc9d352deb76c542253e0c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7150216
+project-id = 911408

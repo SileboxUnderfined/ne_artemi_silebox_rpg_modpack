@@ -1,0 +1,13 @@
+name = "Archers Expansion (More RPG Classes)"
+filename = "archers_expansion-fabric-1.4.5+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "325410da89cbdec258c8dc74189901f2243859eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7317353
+project-id = 1109024

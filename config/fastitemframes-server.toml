@@ -1,0 +1,8 @@
+#Attempt interaction with the supporting block when clicking on an item frame before falling back to the item frame itself.
+#Allows for opening attached containers such as chests and crafting tables without clicking on them directly.
+#Default Value: true
+pass_clicks_to_attached_block = true
+#Transform all vanilla item frame entities to blocks when loading chunks. Otherwise only newly placed ite frames will be blocks.
+#When disabled; individual item frame entities can be converted manually by breaking and replacing them.
+#Default Value: false
+convert_all_existing_item_frames = false

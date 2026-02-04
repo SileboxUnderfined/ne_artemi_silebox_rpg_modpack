@@ -1,0 +1,12 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:leather"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:spruce_shelf"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"packedup:basicbackpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:wooden_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:stone_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:stone_hatchet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:stone_grip"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:wooden_grip"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:wooden_hatchet"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

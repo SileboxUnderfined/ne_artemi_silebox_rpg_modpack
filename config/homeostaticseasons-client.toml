@@ -1,0 +1,7 @@
+[visuals]
+	#Whether or not the foliage color changes based on the current season.
+	changeFoliageColor = true
+	#Whether or not the grass color changes based on the current season.
+	changeGrassColor = true
+	#Whether or not the birch leaves color changes based on the current season.
+	changeBirchColor = true

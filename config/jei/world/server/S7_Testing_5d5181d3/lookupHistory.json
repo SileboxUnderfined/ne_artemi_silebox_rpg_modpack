@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:player_head","components":{"minecraft:attribute_modifiers":[],"minecraft:rarity":"common","minecraft:profile":{"id":[0,0,0,0],"name":"","properties":[{"name":"textures","value":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2UzZGViNTdlYWEyZjRkNDAzYWQ1NzI4M2NlOGI0MTgwNWVlNWI2ZGU5MTJlZTJiNGVhNzM2YTlkMWY0NjVhNyJ9fX0\u003d"}]},"minecraft:use_cooldown":{"seconds":1.0E-5,"cooldown_group":"universal_shops:trade_block"},"minecraft:enchantment_glint_override":false,"minecraft:item_name":{"translate":"block.universal_shops.trade_block","fallback":"Trade Shop"},"minecraft:custom_name":{"text":"","extra":[{"translate":"block.universal_shops.trade_block","fallback":"Trade Shop"}],"italic":false},"minecraft:custom_data":{"$polymer:stack":{"id":"universal_shops:trade_block"}},"minecraft:tooltip_display":{"hidden_components":["minecraft:attribute_modifiers","minecraft:profile","minecraft:enchantments"]},"!minecraft:equippable":{}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:rabbit_hide"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:leather"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:diamond_grip"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:diamond_hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:netherite_hammer","components":{"minecraft:damage":1523}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:diamond_core"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

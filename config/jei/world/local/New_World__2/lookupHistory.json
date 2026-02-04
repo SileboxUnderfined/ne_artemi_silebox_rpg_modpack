@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"jobsplustools:wooden_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:wooden_hatchet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:wooden_grip"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:netherite_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:netherite_experience_jar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:iron_compound_bow"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:netherite_harvester"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

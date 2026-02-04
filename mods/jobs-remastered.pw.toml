@@ -1,0 +1,13 @@
+name = "Jobs+ Remastered"
+filename = "jobsplus-1.5.9-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3e8a3c86495ee986b6e31394888becda68c042b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7239648
+project-id = 916985

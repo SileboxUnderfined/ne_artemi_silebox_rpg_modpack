@@ -1,0 +1,13 @@
+name = "Witcher (More RPG Classes)"
+filename = "witcher-class-mod-fabric-2.7.1+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d919442ffb9e7328247002ca17547ba338327cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7417472
+project-id = 992290

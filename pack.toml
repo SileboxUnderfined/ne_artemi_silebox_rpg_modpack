@@ -1,0 +1,13 @@
+name = "Ne Artemi Silebox Rpg Modpack"
+author = "Silebox & ArtCanDy"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b418252adab44a9a714df126cf72a772b7adc95f4b75d0f5984d1bfb1d7f94c6"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"

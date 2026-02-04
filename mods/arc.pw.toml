@@ -1,0 +1,13 @@
+name = "Arc Lib"
+filename = "arc-1.9.5-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ecbb2ffdacd2987abc47acf410eddba3bf65733"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7239583
+project-id = 883593

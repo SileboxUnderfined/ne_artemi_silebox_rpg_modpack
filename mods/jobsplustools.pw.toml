@@ -1,0 +1,13 @@
+name = "Jobs+ Tools"
+filename = "jobsplustools-1.3.3-1.21-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fa7dedb1bd4c976b983025033267b0239e19aa4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6351819
+project-id = 979423

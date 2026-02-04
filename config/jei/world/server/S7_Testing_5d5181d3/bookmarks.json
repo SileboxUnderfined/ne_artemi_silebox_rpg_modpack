@@ -1,0 +1,4 @@
+[
+  {"version":3},
+  {"ingredient":{"id":"minecraft:iron_helmet","components":{"minecraft:trim":{"material":"minecraft:emerald","pattern":"minecraft:silence"}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

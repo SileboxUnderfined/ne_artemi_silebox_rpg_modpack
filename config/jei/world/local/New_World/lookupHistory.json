@@ -1,0 +1,18 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"arsenal:unique_double_axe_sw"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"arsenal:unique_longsword_sw"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:feather"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:arrow"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:blaze_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:leather"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"illagerinvasion:horn_of_sight"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"illagerinvasion:hallowed_gem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"illagerinvasion:illusionary_dust"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:netherite_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:netherite_hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:stone_grip"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:stone_hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:stone_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"friendsandfoes:wildfire_crown"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,13 @@
+name = "Spell Engine"
+filename = "spell_engine-fabric-1.8.19+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b20e71bb70e964fe2c54a78aba5d3aa2fbd64b12"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7396348
+project-id = 807653

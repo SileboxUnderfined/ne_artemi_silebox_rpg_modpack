@@ -1,0 +1,15 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:shield"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"lolmcv:birch_chest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersive_aircraft:boiler"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersive_aircraft:engine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersive_aircraft:gyrodyne"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersive_aircraft:biplane"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"fluid":"brewinandchewin:vodka"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"brewinandchewin:tankard"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"fluid":"brewinandchewin:beer"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:kelp_roll"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:kelp_roll_slice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:chicken_sandwich"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

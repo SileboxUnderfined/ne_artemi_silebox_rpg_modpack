@@ -1,0 +1,11 @@
+{
+  "entity": {},
+  "item_interactions": {},
+  "fluid_placement": {},
+  "block_overrides": {},
+  "block_interactions": {},
+  "fluid_ambient": {},
+  "general": {
+    "particle_z_fighting_fixes": false
+  }
+}

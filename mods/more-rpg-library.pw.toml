@@ -1,0 +1,13 @@
+name = "More RPG Library"
+filename = "more_rpg_library-fabric-2.5.15+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af6d8c8c5d4b0493e2bb0f31a29dbae56decfe57"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7514060
+project-id = 923030

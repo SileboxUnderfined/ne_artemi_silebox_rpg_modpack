@@ -1,0 +1,13 @@
+name = "Forcemaster (More RPG Classes)"
+filename = "forcemaster_rpg-fabric-2.5.5+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad12e776fbf28794f313ee2dd22842dd17ad4eb7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7481339
+project-id = 992388

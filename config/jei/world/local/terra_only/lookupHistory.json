@@ -1,0 +1,16 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"packedup:ironbackpack","components":{"packedup:inventory_id":1}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"packedup:basicbackpack","components":{"packedup:inventory_id":0}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"packedup:copperbackpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"packedup:goldbackpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"packedup:diamondbackpack","components":{"packedup:inventory_id":3}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:netherite_scrap"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:netherite_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:netherite_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:spruce_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:leather"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:wooden_grip"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:wooden_hatchet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jobsplustools:wooden_core"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

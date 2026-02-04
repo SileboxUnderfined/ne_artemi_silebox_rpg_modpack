@@ -1,0 +1,13 @@
+name = "More Relics (More RPG Content)"
+filename = "more_relics-fabric-1.1.1+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "916ff508a80d3d00e63ff4cfefd136a305324304"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7259009
+project-id = 1303729

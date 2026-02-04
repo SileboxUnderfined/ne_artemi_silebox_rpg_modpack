@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"nemos_backpacks:iron_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nemos_backpacks:copper_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nemos_backpacks:backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

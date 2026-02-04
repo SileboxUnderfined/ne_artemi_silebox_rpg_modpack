@@ -1,0 +1,10 @@
+
+# Whether to prevent leaf litter from generating in the world.
+disableLitterInWorldGeneration = true
+
+# The chance to spawn litter while punching trees, per second.
+punchingLitterChance = 1.0
+
+# Whether punching trees should spawn litter around it.
+punchingTreesCreatesLitter = true
+

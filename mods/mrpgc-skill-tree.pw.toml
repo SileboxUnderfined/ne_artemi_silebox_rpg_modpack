@@ -1,0 +1,13 @@
+name = "More RPG Classes - Skill Tree"
+filename = "mrpgc_skill_tree-fabric-1.0.8+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "807357ad361d4d8db2a3dbf8ffc44b1497049d4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7470813
+project-id = 1352810

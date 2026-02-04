@@ -1,0 +1,65 @@
+[seasons]
+	#Dimensions where seasons are active.
+	whitelistDimensions = ["minecraft:overworld"]
+	#The method by which seasons change.
+	#Realtime: Seasons change based on the real-world time.
+	#Fixed: Is always set to the configuration fixed season.
+	#Configured: Seasons change based on the configured term length.
+	#Allowed Values: REALTIME, FIXED, CONFIGURED
+	seasonChangeMethod = "FIXED"
+	#The hemisphere in which the seasons progress.
+	#Northern: Spring starts in March.
+	#Southern: Spring starts in September.
+	#Allowed Values: NORTHERN, SOUTHERN
+	hemisphere = "NORTHERN"
+	#The season that is always active when the season change method is set to Fixed.
+	#Allowed Values: EARLY_SPRING, MID_SPRING, LATE_SPRING, EARLY_SUMMER, MID_SUMMER, LATE_SUMMER, EARLY_AUTUMN, MID_AUTUMN, LATE_AUTUMN, EARLY_WINTER, MID_WINTER, LATE_WINTER
+	fixedSeason = "MID_SPRING"
+	#The season that the world starts in.
+	#Allowed Values: EARLY_SPRING, MID_SPRING, LATE_SPRING, EARLY_SUMMER, MID_SUMMER, LATE_SUMMER, EARLY_AUTUMN, MID_AUTUMN, LATE_AUTUMN, EARLY_WINTER, MID_WINTER, LATE_WINTER
+	startingSeason = "EARLY_SPRING"
+	#The length of Early Spring subseason in Minecraft days.
+	#Range: 1 ~ 60
+	earlySpringDaysLength = 10
+	#The length of Mid Spring subseason in Minecraft days.
+	#Range: 1 ~ 60
+	midSpringDaysLength = 10
+	#The length of Late Spring subseason in Minecraft days.
+	#Range: 1 ~ 60
+	lateSpringDaysLength = 10
+	#The length of Early Summer subseason in Minecraft days.
+	#Range: 1 ~ 60
+	earlySummerDaysLength = 10
+	#The length of Mid Summer subseason in Minecraft days.
+	#Range: 1 ~ 60
+	midSummerDaysLength = 10
+	#The length of Late Summer subseason in Minecraft days.
+	#Range: 1 ~ 60
+	lateSummerDaysLength = 10
+	#The length of Early Autumn subseason in Minecraft days.
+	#Range: 1 ~ 60
+	earlyAutumnDaysLength = 10
+	#The length of Mid Autumn subseason in Minecraft days.
+	#Range: 1 ~ 60
+	midAutumnDaysLength = 10
+	#The length of Late Autumn subseason in Minecraft days.
+	#Range: 1 ~ 60
+	lateAutumnDaysLength = 10
+	#The length of Early Winter subseason in Minecraft days.
+	#Range: 1 ~ 60
+	earlyWinterDaysLength = 10
+	#The length of Mid Winter subseason in Minecraft days.
+	#Range: 1 ~ 60
+	midWinterDaysLength = 10
+	#The length of Late Winter subseason in Minecraft days.
+	#Range: 1 ~ 60
+	lateWinterDaysLength = 10
+
+[weather]
+	#Whether or not snow layers placed by seasonal snow replace vegetation such as tall grass and flowers.
+	#Disable this if you want seasonal snow to behave like normal snow.
+	seasonalSnowReplaceVegetation = true
+	#The maximum height of snow layers that can accumulate due to seasonal snow.
+	#This effectively sets the gamerule 'snowAccumulationHeight' for seasonal snow.
+	#Range: 1 ~ 8
+	snowAccumulationHeight = 1

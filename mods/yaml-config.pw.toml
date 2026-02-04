@@ -1,0 +1,13 @@
+name = "YAML Config"
+filename = "yamlconfig-1.2-1.21-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60d4c9b3a1ae75544efa9e72f0481e6ca3f66814"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6755577
+project-id = 1128669
