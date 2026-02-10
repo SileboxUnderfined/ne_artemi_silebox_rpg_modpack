@@ -2468,6 +2468,11 @@ hash = "bc4f47f976ecb38e6254de502976f468446f7250178699beba4b067b89469100"
 metafile = true
 
 [[files]]
+file = "mods/antighost-fork.pw.toml"
+hash = "9a7e30177eb238f5bbeae69f18e7b031fb073481c4b65f524b8e2a731995321f"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "9ce55dc09b4b2a28b39ae47d146cfe5399dfc74666d9ae53811bdef4058b3491"
 metafile = true
@@ -2573,11 +2578,6 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "56cd11a88ada9e8ef8614ce57f23db929b06579752ca4a1458dcfdf4a5aead9a"
-metafile = true
-
-[[files]]
-file = "mods/carry-on.pw.toml"
-hash = "d2477bde2046b9d2021acbd206915d63eceba39309f20f697aaa06533278bef0"
 metafile = true
 
 [[files]]
@@ -3063,6 +3063,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "503a13fb7a8188f8434a82df32c16644cba3d0f25e31da88626acc52af03da41"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
 
 [[files]]
