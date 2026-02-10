@@ -2719,6 +2719,11 @@ hash = "1aa94f817646eea69478dc3dce662c3f4b674359d7ce34cf58fd38dcbc56e458"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "1c29e9aa12233166665d5ad50c603e5f41159217db5b6efd6dd614eb9e80dde8"
+metafile = true
+
+[[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
 hash = "722f94c721da0889916f43905a5536b2723e4da8a8dc69c592242d8e181ae1a8"
 metafile = true
@@ -3063,11 +3068,6 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "503a13fb7a8188f8434a82df32c16644cba3d0f25e31da88626acc52af03da41"
-metafile = true
-
-[[files]]
-file = "mods/spark.pw.toml"
-hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
 
 [[files]]
