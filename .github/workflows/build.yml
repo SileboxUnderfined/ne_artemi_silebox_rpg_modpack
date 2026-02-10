@@ -1,0 +1,30 @@
+name: Build Modpack
+on: [push] # Собирать при каждом пуше
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4 # Скачиваем ваш репозиторий
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '>=1.21'
+
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Export to .mrpack (Modrinth)
+        run: packwiz modrinth export -o modpack.mrpack
+
+      - name: Export to .zip (CurseForge/Manual)
+        run: packwiz curseforge export -o modpack.zip
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: modpack-files
+          path: |
+            modpack.mrpack
+            modpack.zip
