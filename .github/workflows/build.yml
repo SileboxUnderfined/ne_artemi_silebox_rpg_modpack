@@ -23,5 +23,14 @@ jobs:
         with:
           name: modpack-files
           path: |
-            modpack.mrpack
             modpack.zip
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: "Latest Build"
+          files: modpack.zip
+          body: "Автоматическая сборка модпака. Обновлено: ${{ github.event.head_commit.message }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
