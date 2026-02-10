@@ -17,20 +17,13 @@ jobs:
 
       - name: Export to .zip (CurseForge/Manual)
         run: packwiz curseforge export --side client -o modpack.zip
-
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: modpack-files
-          path: |
-            modpack.zip
-
+        
       - name: Create Release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: latest
           name: "Latest Build"
           files: modpack.zip
-          body: "Автоматическая сборка модпака. Обновлено: ${{ github.event.head_commit.message }}"
+          body: "Автоматическая сборка модпака. Обновлено: ${{ github.event.head_commit.timestamp }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
