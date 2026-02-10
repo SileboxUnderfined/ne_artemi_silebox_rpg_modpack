@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/build.yml"
+hash = "97d0038ce0525dc289d7de601cb5e4a764ce804471042664e7826bb4c673faa5"
+
+[[files]]
 file = "config/#STOP_MOD_REPOSTS.txt"
 hash = "e29c7c38cce10433b051e1e1c011b0f1e712a1c34f531ce9eba01ed0f1cf55af"
 
@@ -1521,6 +1525,10 @@ file = "config/shouldersurfing-client.toml"
 hash = "aa3b2ff8d0d01a88cdd3c1863aa595af0b886f2cae588e46264422bef3c07733"
 
 [[files]]
+file = "config/simple-modpack-update-checker.json"
+hash = "cc094fbaf38bcfc4363189ba0e50463eab1f225ef4e5cec28c2e1695254933e4"
+
+[[files]]
 file = "config/sit.json5"
 hash = "16bfdef2da782dfedc0909e01e6bcc98930ae761cda008eb91af85dc4f5a3f6a"
 
@@ -2508,11 +2516,6 @@ hash = "87d0e629194b61a1f805de54f6ab49db95cc790a141aed9e8922def414477dd7"
 metafile = true
 
 [[files]]
-file = "mods/automodpack.pw.toml"
-hash = "e89b3273618103fed3e0ff2f0d8ae0a7d9253306620e207a3d83751137ca5d0f"
-metafile = true
-
-[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "b82f557d388b52bfb1e1fde96b8ebf268e2c4383913cdcd0664777188731a378"
 metafile = true
@@ -3053,6 +3056,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
 hash = "d5214bb9b8ddbe5a0c246ddd15b71ec58e81acba2008a8c294ae301ee2bcd6f3"
+metafile = true
+
+[[files]]
+file = "mods/smuc.pw.toml"
+hash = "6cc0753b7e792eb3ba17f232405137fa03ec08285ce4b52cb487285582b75820"
 metafile = true
 
 [[files]]
