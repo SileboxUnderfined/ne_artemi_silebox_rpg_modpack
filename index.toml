@@ -2449,6 +2449,10 @@ file = "config/zoomify.json"
 hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
+file = "datapacks/ToolsFix (2).zip"
+hash = "4d90571e6dcbf7ae987ca889de0a374e2f9aca0bb7cc0488adee87d4849967c0"
+
+[[files]]
 file = "mods/Axiom-5.2.1-for-MC1.21.1.jar"
 hash = "729facd94ea24667cdaa6daba13d62b9f6c5d9ea34795afbbbb11c3bd7c17336"
 
@@ -3295,7 +3299,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "654bb965c3119fd5edb49d0a9e9adc9fd96ea25cd9a55cd4e6223df4c01ba85f"
+hash = "3c13a0885af4399f4a37ce2b00c3d869fccdd870bb20cc6ce6aa3942bc970caa"
 
 [[files]]
 file = "resourcepacks/Compact Font.zip"
