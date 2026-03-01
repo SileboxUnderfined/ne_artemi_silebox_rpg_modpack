@@ -1,0 +1,13 @@
+name = "Animal Garden -Alligator Gar"
+filename = "animalgarden-alligatorgar-1.0.0-fabric-1.21.1-0.116.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bV68OKwf/versions/vNJ5OIrm/animalgarden-alligatorgar-1.0.0-fabric-1.21.1-0.116.7.jar"
+hash-format = "sha512"
+hash = "2f388ef31bd6777ca94f781c2e870119d63c1b0a6c9e193cdbc5b4245b2db0029f86fa33bf3069e5790e762343bf14ba7e125b59d9d34f45e38b6eecf8c90850"
+
+[update]
+[update.modrinth]
+mod-id = "bV68OKwf"
+version = "vNJ5OIrm"

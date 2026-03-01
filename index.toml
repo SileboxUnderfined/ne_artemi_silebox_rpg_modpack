@@ -2476,6 +2476,16 @@ hash = "bc4f47f976ecb38e6254de502976f468446f7250178699beba4b067b89469100"
 metafile = true
 
 [[files]]
+file = "mods/animal-garden-alligator-gar.pw.toml"
+hash = "13eddab0da2c9708eb6056c253af9d356f2da954ce27bd7ef10f76b626c54c49"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-bull-shark.pw.toml"
+hash = "420462194780c7581b61776dbe278f99bbe86ea5c5a97c13510ddf8f1ecb1ca6"
+metafile = true
+
+[[files]]
 file = "mods/antighost-fork.pw.toml"
 hash = "9a7e30177eb238f5bbeae69f18e7b031fb073481c4b65f524b8e2a731995321f"
 metafile = true
@@ -2502,7 +2512,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "39792a11da59cebc770f3918dd0ad53637bcbd206dc19bfa6709392bfd2d1830"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
+file = "mods/armor-of-the-ages.pw.toml"
+hash = "db21d698355fe981e53520eed6ca967dad73c645404a7dfc08f267c60795deda"
 metafile = true
 
 [[files]]
@@ -2604,6 +2619,16 @@ hash = "8924f70537405b8bc884504814f8963483268b492bcad4c6d87badde63ee69e5"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
+metafile = true
+
+[[files]]
+file = "mods/colorful-lanterns.pw.toml"
+hash = "e031fb45e0c5f5a0c17eb54753e2c26e0b463d2274650b22b614c6d45689bda8"
+metafile = true
+
+[[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "84b25ae5de55e613be0e8823f307fe0f6d40b5384de3af4d143b0a1cbfe528a6"
 metafile = true
@@ -2692,8 +2717,13 @@ hash = "341eb8380b988397bd531356a6a824899be5e38255ab0f51bde3cd6b54a6ce96"
 metafile = true
 
 [[files]]
+file = "mods/enchanted-vertical-slabs.pw.toml"
+hash = "c61f4a59a8b5fc28c0c95c47db34c1867f25d0080a06593c41df955e5812f28f"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f4fb9245abbdb8c359a4b4898e9c8f03e2908d32335e4e6e9650d001f669f9aa"
+hash = "d34330399846584de94a7b4a43440a3a4007a6d1e02f02335ecb529c0871133d"
 metafile = true
 
 [[files]]
@@ -2707,13 +2737,18 @@ hash = "068520363709db9632207ee223dcdc9dc3a33b295806b07b0f4e6b0556b9009a"
 metafile = true
 
 [[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "6321f4d1a0f6f084d0325d27806c0c875526c704a1209c04a19a6a9d31283917"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "adcd67c419f4c88858298958287b1658e9a81b7d50c6794769ca01c8b856d3a6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0364a64e7f6515dccf92e10512c81178b7afeb1ae031f8024620892769e69313"
+hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
 metafile = true
 
 [[files]]
@@ -2724,6 +2759,11 @@ metafile = true
 [[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "1c29e9aa12233166665d5ad50c603e5f41159217db5b6efd6dd614eb9e80dde8"
+metafile = true
+
+[[files]]
+file = "mods/fairy-lights-fabric.pw.toml"
+hash = "4f0c9648395c804e43b83354074ad0bfd56dad7ebbd18177f437a63287b0fa6c"
 metafile = true
 
 [[files]]
@@ -2744,6 +2784,11 @@ metafile = true
 [[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "4f474a2ce1551e7768871d6597dd72d819940c38b747d49306449a9645938453"
+metafile = true
+
+[[files]]
+file = "mods/fixed-anvil-repair-cost.pw.toml"
+hash = "12e1f29bb1c44e639e5ddc02d192ad19530a5cf9bf747f470e71a59b03f7fc9f"
 metafile = true
 
 [[files]]
@@ -2914,6 +2959,11 @@ hash = "9ed74a486ee45f5f9498b87bb25d1f62df7f683442786e2a98eb43eec09064d7"
 metafile = true
 
 [[files]]
+file = "mods/more-lights.pw.toml"
+hash = "d9288ae9fffaef945fcde8b2c0ddfdf568e740f15efeb9c565037d61932e4c2f"
+metafile = true
+
+[[files]]
 file = "mods/more-relics-more-rpg-content.pw.toml"
 hash = "72bd84a51ca52cdbcf76d026a82fbbb122b0d711547621a6e7ef367ff76d9f88"
 metafile = true
@@ -2954,6 +3004,11 @@ hash = "3be1fee32179eaaa93c66f382c34b21fd8e90eeb82009bf7048ee90a65f99ec1"
 metafile = true
 
 [[files]]
+file = "mods/nightlights.pw.toml"
+hash = "6b63d15284f95807dd5dcf19e6c1d0132cbac508426162d8db775a1c3a6a228d"
+metafile = true
+
+[[files]]
 file = "mods/nords-leaf-me-alone.pw.toml"
 hash = "60bd9c6badf7c1bd9cf22de36f4a91aace34c96fab563d821f00b8beede42e49"
 metafile = true
@@ -2986,6 +3041,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "0d3e127187193d803aa350bc5843fa7c794433afbc994fe5de9d5ff8d61e6031"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "1c13286be4f09e25c93ef1640335a951df1dd0f155f6d7a173dfc284831e09c3"
 metafile = true
 
 [[files]]
@@ -3035,7 +3095,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "db97e8fb8277b9ec01726d6ebc631966e0adaf996d40f95a8ea97ae98fdde505"
+hash = "e42572fc721676972c9e562a0b1811de7bd8a646696213316f9e113de8a527a4"
 metafile = true
 
 [[files]]
@@ -3205,7 +3265,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "5b3d17e43a7ca6e877bad85b838a8c38f42d8c3922e305b7d88c723a0e573a48"
+hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
 metafile = true
 
 [[files]]
@@ -3259,27 +3319,27 @@ hash = "ad15d2899b02e6a333647f00fd617c69de1491ba317eee8bd9b9abe93e380420"
 
 [[files]]
 file = "resourcepacks/enchant-icons-countxd.pw.toml"
-hash = "ee331a6a60dcc40c8692e7ce750214c5b72425acb33e101752c5a3eb636ec2db"
+hash = "bb2b6a511327bc8782c7c12c6be81c11fa3fcb7fa4fd10d4093a5170862e1ad5"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
-hash = "2ca0915d77d517822f91a7f3f07778cfcc181685ae6c69ba2b44ba3a2ef72cb5"
+hash = "ac7bbfdc56a8e16d5c900db5b94f41497526cd7546f4d751dd17aa604c064578"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
-hash = "2d8aab62e51d84e33920e15cdd34fd164d971b01aede0c3d17abcd08117d33a9"
+hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "72b919a0242253a1540a0fa424ea5a652787365186ac9f5fa5a67583bb5d368c"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/gentler-weather-sounds.pw.toml"
-hash = "f6b8725bd39eb402ddf7bf9e7c1468fa12df8595bde454fe32a840fc540bf5c7"
+hash = "dbcf037cfc9dbbc387d2689cee6693896cedf9b632a4047d6163eaa115b29f61"
 metafile = true
 
 [[files]]
@@ -3289,7 +3349,22 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/semos-animations-lib.pw.toml"
-hash = "b97c84227942c75f4ad9c5f3d8f717885fb979fb1c6f318d23c0c63f9939b64f"
+hash = "5560461ed523fa49ddd3b3d0d115a8398259988bc0b517747440cb8cf596e990"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spbr.pw.toml"
+hash = "1cc27f5b9dfe2a8cd3b8d43df0466b8086300e7cbd516785daf8910cee502f6e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unobtrusive-weather.pw.toml"
+hash = "d3c80b245fcacae2690e81acb24ee6e8edb5a709a4b1bdcae45cded5149adf91"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-mashup-pbr.pw.toml"
+hash = "c2acbd7bf2fb68de4217c78589a4300c400d4b63310069a75954d48defca5799"
 metafile = true
 
 [[files]]
