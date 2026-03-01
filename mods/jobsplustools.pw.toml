@@ -1,13 +1,13 @@
 name = "Jobs+ Tools"
-filename = "jobsplustools-1.3.3-1.21-fabric.jar"
+filename = "jobsplustools-1.3.4-1.21-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4fa7dedb1bd4c976b983025033267b0239e19aa4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/DVunHUgc/versions/TlqhRy5h/jobsplustools-1.3.4-1.21-fabric.jar"
+hash-format = "sha512"
+hash = "02daf9ebf2d298cca024ca61b0b17f44feea5b747cc88cfae4fa43b747d007144e3e51face6bdc99861b9347e8d7c87051ddf1a877b86743ff1fe9ff056e40ae"
 
 [update]
-[update.curseforge]
-file-id = 6351819
-project-id = 979423
+[update.modrinth]
+mod-id = "DVunHUgc"
+version = "TlqhRy5h"
