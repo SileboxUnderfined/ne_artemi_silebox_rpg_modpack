@@ -4686,7 +4686,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-than-apples.pw.toml"
-hash = "ac54b094f55f52b2124ff2569b3031b5cee50f787a1d2e2796b55db67852f412"
+hash = "fc24f65a11c646110e63539bac03d0081cf1060dd21d42146f3ef8ee2fa7fa21"
 metafile = true
 
 [[files]]
