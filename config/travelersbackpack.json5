@@ -62,6 +62,8 @@
 		"preventMultiplePlayersAccess": false,
 		// Backpack immune to any damage source (lava, fire), can't be destroyed, never disappears as floating item
 		"invulnerableBackpack": true,
+		// Allows swapping tools between tool slots and the player’s inventory via a quick-swap menu
+		"allowToolSwapping": true,
 		// List of items that can be put in tool slots (Use registry names, for example: minecraft:apple, minecraft:flint)
 		"toolSlotsAcceptableItems": [
 			""
@@ -256,6 +258,12 @@
 		"slownessPerExcessedBackpack": 1
 	},
 	"client": {
+		"toolsOverlay": {
+			// X offset
+			"offsetX": 0,
+			// Y offset
+			"offsetY": 0
+		},
 		"overlay": {
 			// Enables tanks and tool slots overlay, while backpack is worn
 			"enableOverlay": true,
@@ -268,9 +276,9 @@
 		"showBackpackIconInInventory": false,
 		// Sends a message to the player on death with backpack coordinates
 		"sendBackpackCoordinatesMessage": true,
-		// Enables tool cycling via keybind (Default Z) + scroll combination, while backpack is worn
+		// Depreciated - see allowToolSwapping instead
 		"enableToolCycling": true,
-		// Allows tool cycling using keybinding only (Default Z)
+		// Depreciated
 		"disableScrollWheel": false,
 		// Enables tip, how to obtain a backpack, if there's no crafting recipe for it
 		"obtainTips": true,

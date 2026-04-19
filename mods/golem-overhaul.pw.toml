@@ -1,0 +1,13 @@
+name = "Golem Overhaul"
+filename = "golemoverhaul-fabric-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "448f0c838766a665479576c5b03b5b474f9de478"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7484473
+project-id = 618752

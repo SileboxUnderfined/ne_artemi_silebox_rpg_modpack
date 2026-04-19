@@ -1,0 +1,13 @@
+name = "Useful Snow Golems (Fabric/Forge/NeoForge/Quilt)"
+filename = "useful-snow-golems-v1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31b9dc1dad6d96dd78ebfebd7e249cc256f62c3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7054605
+project-id = 1205272

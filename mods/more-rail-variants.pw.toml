@@ -1,0 +1,13 @@
+name = "More Rail Variants (MStV+)"
+filename = "MoreRailVariants-1.0.8+1.21(.1)-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "529191f4f731958218d31b84346f040a03b9f77c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7887834
+project-id = 1172913

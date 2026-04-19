@@ -3,11 +3,11 @@ filename = "animalgarden_bullshark-1.1.0-fabric-1.21.1-0.116.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/d83mmflQ/versions/oGDUiVAt/animalgarden_bullshark-1.1.0-fabric-1.21.1-0.116.7.jar"
-hash-format = "sha512"
-hash = "e7e10fdc113543744c5d8f3ce7a74b474eee35515cd6d095625558e7f2068d6102e1341b0c1d71175c08fec32e1124b3d44161fcbedc9c2628f8ae01f2aeec40"
+hash-format = "sha1"
+hash = "17c4d193e56c2d96c7f807df3b4b554ef457eee2"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "d83mmflQ"
-version = "oGDUiVAt"
+[update.curseforge]
+file-id = 7230654
+project-id = 1363244

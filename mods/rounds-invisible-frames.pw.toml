@@ -1,0 +1,13 @@
+name = "Round's Invisible Frames"
+filename = "invisibleframes-1.3.0+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "499f81b20e77cb1dae843c34232660687f30bcc8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6701801
+project-id = 1295518

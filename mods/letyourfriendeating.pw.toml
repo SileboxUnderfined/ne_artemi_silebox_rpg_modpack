@@ -1,0 +1,13 @@
+name = "Let Your Friend Eating! (Can feed other player)"
+filename = "LetYourFriendEating_1.1.2_1.21.1_Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea7b1ec1ea5be9f48e23801642bf42dfddd19f65"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7311816
+project-id = 1206957

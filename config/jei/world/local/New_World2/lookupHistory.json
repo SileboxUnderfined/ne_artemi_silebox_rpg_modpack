@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"explorerscompass:explorerscompass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"naturescompass:naturescompass"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

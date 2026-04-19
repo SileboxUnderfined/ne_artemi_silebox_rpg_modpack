@@ -12,7 +12,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:false
+fullscreen:true
 gamma:1.0
 graphicsMode:1
 guiScale:5
@@ -25,7 +25,7 @@ renderClouds:"true"
 renderDistance:22
 simulationDistance:16
 screenEffectScale:1.0
-soundDevice:""
+soundDevice:"OpenAL Soft on Speakers (HyperX Quadcast)"
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:0.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/Fancy Crops v1.3.zip","file/Gentler Weather Sounds 2.1.0.zip","file/Overlay’s§7.zip","file/VanillaTweaks_r695951_MC1.21.x.zip","file/enchant icons 1.21 v1.3.zip","file/§9⛈ §bUnobtrusive Weather §8[v1.5].zip","file/FreshAnimations_v1.10.3.zip","file/Compact Font.zip","fabric"]
-incompatibleResourcePacks:["file/Compact Font.zip","additionalstructures","appleskin","badoptimizations","brewinandchewin","carryon","do_a_barrel_roll","entity_model_features","entity_texture_features","inventory_particles","jei","moogs_structures","mossylib","mr_vanilla_backpacks","mvs","naturally_trimmed","particle_effects","subtle_effects","trimmable_tools","worldedit","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","file/Fancy Crops v1.3.zip","file/Overlay’s§7.zip","file/enchant icons 1.21 v1.3.zip","file/§9⛈ §bUnobtrusive Weather §8[v1.5].zip","file/Compact Font.zip","fabric","$polymer-resources","crittersandcompanions:friendlyart","file/FreshAnimations_v1.10.4.zip","file/Gentler Weather Sounds 2.2.0.zip","file/Semos Animation Lib 1.1.5.zip","mythicupgrades:32x","minecraft:supporteatinganimation","vinery:bushy_leaves"]
+incompatibleResourcePacks:["file/Compact Font.zip","additionalstructures","animalgarden_alligatorgar","animalgarden_bullshark","appleskin","armoroftheages","badoptimizations","brewinandchewin","do_a_barrel_roll","entity_model_features","entity_texture_features","inventory_particles","jei","moogs_structures","mossylib","mr_vanilla_backpacks","mvs","naturally_trimmed","particle_effects","replaymod","subtle_effects","terrablender","trimmable_tools","wardentools","worldedit","xaerolib","xaerominimap","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -94,8 +94,8 @@ key_key.left:key.keyboard.a
 key_key.back:key.keyboard.s
 key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
-key_key.sneak:key.keyboard.left.shift
-key_key.sprint:key.keyboard.left.control
+key_key.sneak:key.mouse.4
+key_key.sprint:key.keyboard.left.shift
 key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.t
@@ -104,7 +104,7 @@ key_key.pickItem:key.keyboard.grave.accent
 key_key.command:key.keyboard.slash
 key_key.socialInteractions:key.keyboard.unknown
 key_key.screenshot:key.keyboard.f2
-key_key.togglePerspective:key.keyboard.unknown
+key_key.togglePerspective:key.keyboard.f4
 key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
@@ -139,6 +139,9 @@ key_axiom.keybind.toggle_bulldozer_cap:key.keyboard.unknown
 key_axiom.keybind.nudge_with_scroll:key.keyboard.unknown
 key_axiom.keybind.nudge_forwards:key.keyboard.unknown
 key_axiom.keybind.nudge_backwards:key.keyboard.unknown
+key_key.golemoverhaul.netherite_golem_summon:key.keyboard.r
+key_key.adventurez.dragonflydown:key.keyboard.left.alt
+key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent
 key_key.antighost.reveal:key.keyboard.g
 key_key.bridgingmod.toggle_bridging:key.keyboard.comma
 key_key.camerautils.zoom:key.keyboard.unknown
@@ -166,7 +169,10 @@ key_key.do_a_barrel_roll.roll_left:key.keyboard.unknown
 key_key.do_a_barrel_roll.roll_right:key.keyboard.unknown
 key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w
 key_key.do_a_barrel_roll.thrust_backward:key.keyboard.unknown
+key_key.emotecraft.fastchoose:key.keyboard.period
+key_key.emotecraft.stop:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.expandedstorage.config:key.keyboard.g
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.semicolon
 key_key.firstperson.toggle:key.keyboard.f6
 key_text.HorseBuff.keybinding.horsePlayerInventory:key.keyboard.left.alt
@@ -214,6 +220,7 @@ key_key.jei.nextCategory:key.keyboard.page.down
 key_key.jei.closeRecipeGui:key.keyboard.escape
 key_key.jei.copy.recipe.id:key.keyboard.unknown
 key_key.jobsplus.open_menu:key.keyboard.j
+key_key.letyourfriendeating.open_config:key.keyboard.f8
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.mousewheelie.open_config_screen:key.keyboard.unknown
 key_key.mousewheelie.sort_inventory:key.keyboard.h
@@ -226,6 +233,24 @@ key_key.mousewheelie.drop_modifier:key.keyboard.left.alt
 key_key.mousewheelie.deposit_modifier:key.keyboard.space
 key_key.mousewheelie.restock_modifier:key.keyboard.space
 key_key.puffish_skills.open:key.keyboard.k
+key_key.replaymod.playeroverview:key.keyboard.b
+key_key.replaymod.lighting:key.keyboard.z
+key_key.replaymod.quickmode:key.keyboard.q
+key_key.replaymod.settings:key.keyboard.backslash
+key_key.replaymod.marker:key.keyboard.m
+key_key.replaymod.thumbnail:key.keyboard.n
+key_key.replaymod.playpause:key.keyboard.p
+key_key.replaymod.rollclockwise:key.keyboard.l
+key_key.replaymod.rollcounterclockwise:key.keyboard.j
+key_key.replaymod.resettilt:key.keyboard.k
+key_key.replaymod.pathpreview:key.keyboard.h
+key_key.replaymod.keyframerepository:key.keyboard.x
+key_key.replaymod.clearkeyframes:key.keyboard.c
+key_key.replaymod.synctimeline:key.keyboard.v
+key_key.replaymod.positionkeyframe:key.keyboard.i
+key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
+key_key.replaymod.timekeyframe:key.keyboard.o
+key_key.replaymod.bothkeyframes:key.keyboard.unknown
 key_key.smallships.ship_sail:key.keyboard.r
 key_key.smallships.cannon_barrel_enter:key.keyboard.f
 key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt
@@ -244,7 +269,7 @@ key_key.travelersbackpack.sort:key.keyboard.unknown
 key_key.travelersbackpack.ability:key.keyboard.unknown
 key_key.travelersbackpack.cycle_tool:key.keyboard.unknown
 key_key.uilib.open_test_menu:key.keyboard.unknown
-key_key.push_to_talk:key.keyboard.b
+key_key.push_to_talk:key.keyboard.delete
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
 key_key.disable_voice_chat:key.keyboard.keypad.divide
@@ -254,6 +279,7 @@ key_key.voice_chat_settings:key.keyboard.n
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_key.wardentools.consume_charges:key.keyboard.left.control
 key_gui.xaero_minimap_settings:key.keyboard.y
 key_gui.xaero_minimap_server_profiles:key.keyboard.unknown
 key_gui.xaero_zoom_in:key.keyboard.unknown

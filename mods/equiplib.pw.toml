@@ -1,0 +1,13 @@
+name = "EquipLib"
+filename = "equiplib-fabric-1.0.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2101a7a5ff03f1607fb4e297b18200d3a8e5fcd7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6973921
+project-id = 1339715

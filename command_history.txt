@@ -1,0 +1,50 @@
+/function fromthefog:admin/config
+/gamemode creative
+/function fromthefog:admin/config
+/help
+/gamerule minecartMaxSpeed 40
+/locate structure incendium:infernal_altar
+/tp @s -432 ~ 336
+/biomeinfo
+/biomeinfo nether
+/locate structure betterfortresses:fortress
+/tp @s -1472 ~ 832
+/locate biome incendium:infernal_dunes
+/tp @s -1398 110 724
+/datapack list
+/reload
+/summon adventurez:blaze_guardian
+/locate structure #betterfortresses:better_fortresses
+/tp @s -1472 ~ 832
+/datapack list
+/datapack enable ServerTweaks
+/datapack enable file/ServerTweaks
+/reload
+/datapack disable "file/ServerTweaks"
+/datapack enable "file/ServerTweaks"
+/reload
+/gamerule doMobSpawning true
+/reload
+/gamerule doMobSpawning true
+/reload
+/datapack list
+/kill @e[type=minecraft:blaze,distance=64]
+/summon minecraft:blaze
+/reload
+/datapack disable "file/ServerTweaks"
+/datapack enable "file/ServerTweaks"
+/gamerule doMobSpawning true
+/locate structure incendium:pipeline
+/tp @s -928 ~ 768
+/datapack list
+/reload
+/locate biome incendium:infernal_dunes
+/tp @s -343 241 -136
+/locate biome incendium:infernal_dunes
+/tp @s -478 144 -1886
+/locate biome incendium:infernal_dunes
+/reload
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative

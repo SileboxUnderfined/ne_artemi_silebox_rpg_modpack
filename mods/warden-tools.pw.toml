@@ -1,0 +1,13 @@
+name = "Warden Tools"
+filename = "wardentools-fabric-1.21.1-4.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91340c139c1079901ff31d96d31ec6172157536d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7464340
+project-id = 635510

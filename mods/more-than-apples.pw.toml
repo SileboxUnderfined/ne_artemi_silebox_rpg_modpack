@@ -1,0 +1,13 @@
+name = "More Than Apples"
+filename = "more-than-apples-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30c568597423b224912ab54856ad5d20e8bcd631"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7520062
+project-id = 1349534
